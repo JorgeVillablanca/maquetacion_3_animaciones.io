@@ -15,11 +15,11 @@
 
 @font-face {
     font-family: "WebSymbolsRegular";
-    src: url(fonts/WebSymbols-regular-webfont.eot);
-    src: url(fonts/WebSymbols-regular-webfont.eot?#iefix) format(embedded-opentype),
-        url(fonts/WebSymbols-regular-webfont.woff) format(woff),
-        url(fonts/WebSymbols-regular-webfont.ttf) format(truetype),
-        url(fonts/WebSymbols-regular-webfont.svg#WebSymbolsregular) format(svg);
+    src: url(./fonts/WebSymbols-regular-webfont.eot);
+    src: url(./fonts/WebSymbols-regular-webfont.eot?#iefix) format(embedded-opentype),
+        url(./fonts/WebSymbols-regular-webfont.woff) format(woff),
+        url(./fonts/WebSymbols-regular-webfont.ttf) format(truetype),
+        url(./fonts/WebSymbols-regular-webfont.svg#WebSymbolsregular) format(svg);
 
 }
 
